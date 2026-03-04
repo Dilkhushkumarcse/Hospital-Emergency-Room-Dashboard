@@ -1,4 +1,3 @@
-# Hospital Emergency Room Dashboard
 # Dashboard Preview
 
 ![Hospital Dashboard](1.png)
