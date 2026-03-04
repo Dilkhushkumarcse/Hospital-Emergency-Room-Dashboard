@@ -123,8 +123,7 @@ Some key insights from the dashboard:
 * Slightly more **male patients than female patients**
 * Around **52% of patients require admission**
 
-# Project Structure
-
+```
 Hospital-Emergency-Room-Dashboard
 │
 ├── Hospital ER Dashboard.xlsx
